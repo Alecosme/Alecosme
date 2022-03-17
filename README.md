@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alecosme
 - 👀 I’m interested in Programming and data networking.
 - 🌱 I’m currently Studying telematic engineering.
-- 💞️ I’m working at the moment in in the sale of telecommunications equipment.
+- 💞️ I’m working at the moment in the sale of telecommunications equipment.
 - 📫 How to reach me: alejandrocosmediaz@gmail.com, 849-763-9825.
 
 <!---
